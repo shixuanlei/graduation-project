@@ -13,7 +13,6 @@
 		422A6CC71C92B3E600967777 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 422A6CC51C92B3E600967777 /* Main.storyboard */; };
 		422A6CC91C92B3E600967777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 422A6CC81C92B3E600967777 /* Assets.xcassets */; };
 		422A6CCC1C92B3E600967777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 422A6CCA1C92B3E600967777 /* LaunchScreen.storyboard */; };
-		5A1FBC2D1C92B6AE007B9B1E /* HHHHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A1FBC2C1C92B6AE007B9B1E /* HHHHViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		422A6CC81C92B3E600967777 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		422A6CCB1C92B3E600967777 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		422A6CCD1C92B3E600967777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A1FBC2B1C92B6AE007B9B1E /* HHHHViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHHHViewController.h; sourceTree = "<group>"; };
-		5A1FBC2C1C92B6AE007B9B1E /* HHHHViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHHHViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +60,6 @@
 			children = (
 				422A6CBF1C92B3E600967777 /* AppDelegate.h */,
 				422A6CC01C92B3E600967777 /* AppDelegate.m */,
-				5A1FBC2B1C92B6AE007B9B1E /* HHHHViewController.h */,
-				5A1FBC2C1C92B6AE007B9B1E /* HHHHViewController.m */,
 				422A6CC21C92B3E600967777 /* ViewController.h */,
 				422A6CC31C92B3E600967777 /* ViewController.m */,
 				422A6CC51C92B3E600967777 /* Main.storyboard */,
@@ -157,7 +152,6 @@
 			files = (
 				422A6CC41C92B3E600967777 /* ViewController.m in Sources */,
 				422A6CC11C92B3E600967777 /* AppDelegate.m in Sources */,
-				5A1FBC2D1C92B6AE007B9B1E /* HHHHViewController.m in Sources */,
 				422A6CBE1C92B3E600967777 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
